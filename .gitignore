@@ -2,6 +2,8 @@
 dataset/*
 !dataset/.gitkeep
 .claude
+saved_model/*
+!saved_model/.gitkeep
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
